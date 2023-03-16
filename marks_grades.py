@@ -25,4 +25,14 @@ for i,j in student_details.items():
         print("Grade:B", i,j)
     elif j < 100:
         print("Grade:A", i,j)
+
+##
+##
+##op:
+##Grade:B David 80
+##Grade:C Vinoth 77
+##Grade:B Divya 88
+##Grade:A Ishitha 95
+##Grade:D Thomas 68
+
         
