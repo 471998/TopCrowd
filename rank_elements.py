@@ -5,4 +5,6 @@ new_inp=sorted(Input)
 #print(new_inp)
 for i in Input:
     if i in new_inp:
-        print((new_inp.index(i)+1))
+        opt.append(new_inp.index(i)+1)
+print(opt)
+        
